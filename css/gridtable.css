@@ -1,0 +1,3 @@
+.gridTable { width:90%;background-color:#eee;border-collapse:collapse; }
+.gridTable th { background-color:#000;color:white; }
+.gridTable td, .gridTable th { padding:5px;border:1px solid #000; }

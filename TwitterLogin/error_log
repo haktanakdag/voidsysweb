@@ -1,0 +1,13 @@
+[25-May-2018 16:06:38 Europe/Istanbul] PHP Notice:  Use of undefined constant CONSUMER_KEY - assumed 'CONSUMER_KEY' in /home/voidev/public_html/TwitterLogin/callback.php on line 9
+[25-May-2018 16:06:38 Europe/Istanbul] PHP Notice:  Use of undefined constant CONSUMER_SECRET - assumed 'CONSUMER_SECRET' in /home/voidev/public_html/TwitterLogin/callback.php on line 9
+[25-May-2018 16:12:43 Europe/Istanbul] PHP Notice:  Undefined index: oauth_token in /home/voidev/public_html/TwitterLogin/callback.php on line 5
+[25-May-2018 23:51:03 Europe/Istanbul] PHP Notice:  Use of undefined constant CONSUMER_KEY - assumed 'CONSUMER_KEY' in /home/voidev/public_html/TwitterLogin/callback.php on line 9
+[25-May-2018 23:51:03 Europe/Istanbul] PHP Notice:  Use of undefined constant CONSUMER_SECRET - assumed 'CONSUMER_SECRET' in /home/voidev/public_html/TwitterLogin/callback.php on line 9
+[25-May-2018 23:51:42 Europe/Istanbul] PHP Notice:  Undefined property: stdClass::$surname in /home/voidev/public_html/TwitterLogin/index.php on line 37
+[25-May-2018 23:51:42 Europe/Istanbul] PHP Notice:  Undefined property: stdClass::$gender in /home/voidev/public_html/TwitterLogin/index.php on line 39
+[25-May-2018 23:51:42 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/voidev/public_html/TwitterLogin/index.php:42) in /home/voidev/public_html/TwitterLogin/index.php on line 44
+[25-May-2018 23:52:10 Europe/Istanbul] PHP Notice:  Use of undefined constant CONSUMER_KEY - assumed 'CONSUMER_KEY' in /home/voidev/public_html/TwitterLogin/callback.php on line 9
+[25-May-2018 23:52:10 Europe/Istanbul] PHP Notice:  Use of undefined constant CONSUMER_SECRET - assumed 'CONSUMER_SECRET' in /home/voidev/public_html/TwitterLogin/callback.php on line 9
+[25-May-2018 23:52:20 Europe/Istanbul] PHP Notice:  Undefined property: stdClass::$surname in /home/voidev/public_html/TwitterLogin/index.php on line 37
+[25-May-2018 23:52:20 Europe/Istanbul] PHP Notice:  Undefined property: stdClass::$gender in /home/voidev/public_html/TwitterLogin/index.php on line 39
+[25-May-2018 23:52:20 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/voidev/public_html/TwitterLogin/index.php:42) in /home/voidev/public_html/TwitterLogin/index.php on line 44

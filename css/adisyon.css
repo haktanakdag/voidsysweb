@@ -1,0 +1,36 @@
+.urunlerdiv{
+	overflow: hidden;
+	margin-bottom: 5px;
+	-webkit-transition: all 1s;
+}
+
+.masalar{
+	float:left;
+	width:100px;
+	height:100px;
+	border:#CCC solid 1px;
+	margin-right: 10px;
+	margin-left: 4px;
+        margin-top: 4px;
+        display: block;
+}
+.kuryeler{
+	float:left;
+	width:100px;
+	height:100px;
+	border:#CCC solid 1px;
+	margin-right: 10px;
+	margin-left: 4px;
+        margin-top: 4px;
+        display: block;
+}
+.urunler{
+	float:left;
+	width:80px;
+	height:50px;
+	border:#CCC solid 1px;
+	margin-right: 10px;
+	margin-left: 4px;
+        margin-top: 4px;
+        display: block;
+}

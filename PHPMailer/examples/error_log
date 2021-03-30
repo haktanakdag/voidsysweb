@@ -1,0 +1,12 @@
+[28-Apr-2016 11:18:45 Europe/Istanbul] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /home/bkmkul/public_html/demo/insaat/PHPMailer/examples/test_mail_basic.php on line 14
+[28-Apr-2016 11:20:12 Europe/Istanbul] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /home/bkmkul/public_html/demo/insaat/PHPMailer/examples/test_mail_basic.php on line 14
+[28-Apr-2016 11:20:14 Europe/Istanbul] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /home/bkmkul/public_html/demo/insaat/PHPMailer/examples/test_mail_basic.php on line 14
+[28-Apr-2016 11:20:14 Europe/Istanbul] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /home/bkmkul/public_html/demo/insaat/PHPMailer/examples/test_mail_basic.php on line 14
+[28-Apr-2016 11:20:53 Europe/Istanbul] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /home/bkmkul/public_html/demo/insaat/PHPMailer/examples/test_mail_basic.php on line 14
+[28-Apr-2016 11:21:37 Europe/Istanbul] PHP Warning:  preg_replace(): Compilation failed: missing terminating ] for character class at offset 3 in /home/bkmkul/public_html/demo/insaat/PHPMailer/examples/test_mail_basic.php on line 14
+[28-Apr-2016 11:43:31 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/bkmkul/public_html/demo/insaat/PHPMailer/class.phpmailer.php on line 873
+[28-Apr-2016 11:43:31 Europe/Istanbul] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/bkmkul/public_html/demo/insaat/PHPMailer/class.phpmailer.php on line 873
+[28-Apr-2016 11:44:03 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/bkmkul/public_html/demo/insaat/PHPMailer/class.phpmailer.php on line 873
+[28-Apr-2016 11:44:03 Europe/Istanbul] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/bkmkul/public_html/demo/insaat/PHPMailer/class.phpmailer.php on line 873
+[28-Apr-2016 11:44:22 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/bkmkul/public_html/demo/insaat/PHPMailer/class.phpmailer.php on line 873
+[28-Apr-2016 11:44:22 Europe/Istanbul] PHP Warning:  escapeshellarg() has been disabled for security reasons in /home/bkmkul/public_html/demo/insaat/PHPMailer/class.phpmailer.php on line 873
